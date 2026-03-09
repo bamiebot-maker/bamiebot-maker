@@ -45,6 +45,6 @@ https://bamietechdev.web.app
 ---
 
 ## GitHub Stats
-![Streak](https://streak-stats.demolab.com?user=bamiebot-maker&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamiebot-maker&layout=compact&theme=tokyonight)
 
