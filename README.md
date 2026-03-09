@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" bg-color="blue">
 
 # Ibrahim Sobur Bamidele (Bamietech)
 Web2 & Web3 Developer • Software Engineering Student  
@@ -26,7 +26,7 @@ I care about clarity, correctness, and maintainability—and I ship fast with pr
 ---
 
 ## Tech Stack
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,mongodb,aws,docker,linux,git)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,sql,solidity,rust,go,c++,postgres,mongodb,aws,docker,linux,git)
 
 ---
 
@@ -46,5 +46,6 @@ https://bamietechdev.web.app
 
 ## GitHub Stats
 ![Streak](https://streak-stats.demolab.com?user=bamiebot-maker&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamiebot-maker&layout=compact&theme=tokyonight)
 
 
