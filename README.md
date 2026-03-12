@@ -1,4 +1,4 @@
-<div align="center" bg-color="blue">
+<div align="center" background-color="blue">
 
 # Ibrahim Sobur Bamidele (Bamietech)
 Web2 & Web3 Developer • Software Engineering Student  
