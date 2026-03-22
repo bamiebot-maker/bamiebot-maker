@@ -26,7 +26,7 @@ I care about clarity, correctness, and maintainability—and I ship fast with pr
 ---
 
 ## Tech Stack
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,solidity,rust,go,java,postgres,mongodb,supabase,firebase,aws,github,docker,linux,git,ai)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,solidity,rust,go,java,postgres,mysql,mongodb,supabase,firebase,aws,github,docker,linux,git,ai)
 
 ---
 
