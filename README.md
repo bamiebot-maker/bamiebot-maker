@@ -49,3 +49,8 @@ https://bamietechdev.web.app
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamiebot-maker&layout=compact&theme=tokyonight)
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bamiebot-maker/bamiebot-maker&type=date&legend=top-left)](https://www.star-history.com/#bamiebot-maker/bamiebot-maker&type=date&legend=top-left)
+
+## Everything we built so far was built with love and in good vibe
