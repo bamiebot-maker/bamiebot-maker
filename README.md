@@ -50,6 +50,13 @@ https://bamietechdev.web.app
 
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=bamiebot-maker/bamiebot-maker&type=date&legend=top-left)](https://www.star-history.com/#bamiebot-maker/bamiebot-maker&type=date&legend=top-left)
 
-## Everything we built so far was built with love and in good vibe
+<a href="https://www.star-history.com/?repos=bamiebot-maker%2Fbamiebot-maker&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=bamiebot-maker/bamiebot-maker&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=bamiebot-maker/bamiebot-maker&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=bamiebot-maker/bamiebot-maker&type=date&legend=top-left" />
+ </picture>
+</a>
+
+## Everything i built so far was built with love and in good vibe
